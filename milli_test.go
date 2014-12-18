@@ -4,7 +4,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/SyntropyDev/milli"
+	"github.com/ShaleApps/milli"
 )
 
 func TestTime(t *testing.T) {
